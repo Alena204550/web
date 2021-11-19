@@ -1,0 +1,135 @@
+<! DOCTYPE html >
+< html >
+    < голова >
+        < meta  charset = " UTF-8 " >
+        < link  rel = " stylesheet " href = " style.css " >
+        < Ссылка  HREF = " https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css " отн =" таблица стилей " Целостность =" SHA384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU " crossorigin =" анонимным " >
+        < Сценарий  SRC = " https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js " Целостность =" sha384- / bQdsTh / da6pkI1MST / rWKFNjaCP5gBSY4sEBT38Q / 9RBh9AH40zEOg7Hlq2THRZ " crossorigin = " анонимный " > </ script >
+        < title > Список задач </ title >
+    </ голова >
+    < тело >
+        < div  class = " container " >
+
+            < div  class = " row " >
+                < div  class = " col-md-12 " id = " title " > < h1 > Задачи </ h1 > </ div >
+            </ div >
+            
+            < div  class = " row " >
+                < div  class = " col-md-2 " id = " one " > высокий приоритет </ div >
+                < div  class = " col-md-10 " id = " two " > </ div >
+            </ div >
+            < div  class = " row " >
+                < div  class = " col-md-10 " id = " line " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div > 
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+
+            < div  class = " row " >
+                < div  class = " col-md-2 " id = " one_1 " > средний приоритет </ div >
+                < div  class = " col-md-10 " id = " two_2 " > </ div >
+            </ div >
+            < div  class = " row " >
+                < div  class = " col-md-10 " id = " line_2 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div > 
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_2 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_2 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_2 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+
+            < div  class = " row " >
+                < div  class = " col-md-2 " id = " one_2 " > низкий приоритет </ div >
+                < div  class = " col-md-10 " id = " two_3 " > </ div >
+            </ div >
+            < div  class = " row " >
+                < div  class = " col-md-10 " id = " line_3 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div > 
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_3 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_3 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+            < div  class = " spanline " > </ div >
+
+            < div  class = " row " id = " second " >
+                < div  class = " col-md-10 " id = " line_3 " >
+                    < h5  id = " text " > Lorem ipsum </ h5 >
+                    Neque Порро quisquam Эст Квай dolorem Ipsum Quia Dolor сидеть Амет, consectetur, < бр > adipisci велит ...
+                </ div >
+                < DIV  класс = " Col-мкр-1 текст-конец " ID =" Дата " > 1 июня, < бр > 2012 < бр > 1 день </ DIV >
+            </ div >
+        </ div >
+    </ body >
+</ html >
