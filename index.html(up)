@@ -1,0 +1,152 @@
+<! DOCTYPE html >
+< html >
+    < голова >
+        < meta  charset = " UTF-8 " >
+        < link  rel = " stylesheet " href = " style.css " >
+        < Ссылка  HREF = " https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css " отн =" таблица стилей " Целостность =" SHA384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU " crossorigin =" анонимным " >
+        < Сценарий  SRC = " https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js " Целостность =" sha384- / bQdsTh / da6pkI1MST / rWKFNjaCP5gBSY4sEBT38Q / 9RBh9AH40zEOg7Hlq2THRZ " crossorigin = " анонимный " > </ script >
+        < заголовок > </ заголовок >
+    </ голова >
+    < тело >
+        < nav  class = " navbar navbar-customclass navbar-expand-lg " >
+            < div  class = " container " >
+              < Класс = " Navbar-бренд " HREF =" # " стиль =" маржа налево: 9% " > < IMG SRC =" изображения / github_PNG47.png " ширина =" 35 " высота =" 33 " > </ >  
+              < button  class = " navbar-toggler " type = " button " data-bs-toggle = " collapse " data-bs-target = " #navbarSupportedContent " aria-controls = " navbarSupportedContent " aria- extended = " false " aria-label = " Переключить навигацию " >
+                < span  class = " navbar-toggler-icon " > </ span >
+              </ кнопка >
+              < div  class = " collapse navbar-collapse w-100 order-1 order-md-0 dual-collapse2 " id = " navbarSupportedContent " >
+                < ul  class = " navbar-nav me-auto mb-2 mb-lg-0 " >
+                  < li  class = " раскрывающийся список nav-item " >
+                    < Класс = " нав-ссылка выпадающий-тумблер " HREF =" # " ID =" navbarDropdown " роль =" Кнопка " данные-бс-тумблер =" выпадающий " ария вспененные =" ложь " > 
+                      Почему GitHub?
+                    </ а >
+                    < ul  class = " dropdown-menu " aria-labelledby = " navbarDropdown " style = " min-width: 200%; font-size: 80% " >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > < B > Функции </ б > </ а > </ Li > 
+                      < Литий > < класс = " Выпадающий-элемент " HREF =" # " > Мобильный </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Действия </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Codespaces </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Пакеты </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Безопасность </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Обзор кода </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Project Managment </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Интеграции </ > </ литий > 
+                      < li > < hr  class = " dropdown-divider " style = " margin-left: 6.3%; width: 85% " > </ li >
+                      < Литий > < класс = " Выпадающий-элемент " HREF =" # " > < б > GitHub спонсоры </ б > </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > < B > Истории клиентов </ б > </ > </ литий > 
+                    </ ul >
+                  </ li >
+                  < li  class = " nav-item " >
+                    < Класс = " нав-связь " ария тока =" страница " HREF =" # " > Команда </ > 
+                  </ li >
+                  < li  class = " nav-item justify-content-end " >
+                    < Класс = " нав-связь " ария тока =" страница " HREF =" # " > Компания </ > 
+                  </ li >
+                  < li  class = " раскрывающийся список nav-item " >
+                    < Класс = " нав-ссылка выпадающий-тумблер " HREF =" # " ID =" navbarDropdown " роль =" Кнопка " данные-бс-тумблер =" выпадающий " ария вспененные =" ложь " > 
+                      Исследовать
+                    </ а >
+                    < ul  class = " dropdown-menu " aria-labelledby = " navbarDropdown " style = " font-size: 80%; min-width: 300%; " >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > < B > Исследовать GitHub </ б > </ > </ литий > 
+                      < li > < hr  class = " dropdown-divider " style = " margin-left: 6.3%; width: 85% " > </ li >
+                      < li > < span  class = " dropdown-item-text " style = " font-family: monospace; color: 858185 " > Учитесь и вносите свой вклад </ span > </ li >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Темы </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Коллекции </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Trending </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Learning Lab </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Открытый исходный код направляющие </ > </ литий > 
+                      < li > < hr  class = " dropdown-divider " style = " margin-left: 6.3%; width: 85% " > </ li >
+                      < li > < span  class = " dropdown-item-text " style = " font-family: monospace; color: 858185 " > Общайтесь с другими людьми </ span > </ li >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > риого Проект </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > События </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Форум сообщества </ > </ литий > 
+                    </ ul >
+                  </ li >
+                  < li  class = " nav-item " >
+                    < Класс = " нав-связь " ария тока =" страница " HREF =" # " > Торговая площадка </ > 
+                  </ li >
+                  < li  class = " раскрывающийся список nav-item " >
+                    < Класс = " нав-ссылка выпадающий-тумблер " HREF =" # " ID =" navbarDropdown " роль =" Кнопка " данные-бс-тумблер =" выпадающий " ария вспененные =" ложь " > 
+                      Ценообразование
+                    </ а >
+                    < ul  class = " dropdown-menu " aria-labelledby = " navbarDropdown " style = " min-width: 300%; font-size: 80% " >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > < B > Планы </ б > </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Сравнить планы </ > </ литий > 
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > Связаться с отделом продаж </ > </ литий > 
+                      < li > < hr  class = " dropdown-divider " style = " margin-left: 6.3%; width: 85% " > </ li >
+                      < Литий > < класс = " выпадающий-пункт " HREF =" # " > < б > Образование </ б > </ > </ литий > 
+        
+                    </ ul >
+        
+                  </ li >
+        
+                </ ul >
+              </ div >
+            </ div >
+            < div  class = " navbar-collapse collapse w-150 order-2 dual-collapse2 " style = " margin-right: 12% " >
+                < ul  class = " navbar-nav mx-auto " style = " margin-top: 5% " >
+                  < div  class = " input-group mb-3 " >
+                    < input  type = " tel " class = " form-control " placeholder = " Искать в GitHub " aria-label = " Имя пользователя получателя " aria -descriptionby = " button-addon2 " style = " border-color: 444D56; margin-left: -40%; ширина: 100% " обязательно />
+                    < button  class = " btn btn-outline-light " type = " button " id = " button-addon2 " style = " color: 444D56; border-color: 444D56; " disabled > / </ button >
+                  </ div >
+                    < li  class = " nav-item " >
+                        < Класс = " нав-ссылка " HREF =" домашнее задание-Task3-sign_in.html " мишень =" _blank " стиль =" ширина: 140% " > & nbspSign в </ > 
+                    </ li >
+                </ ul >
+            </ div >
+          </ nav >
+        < div  class = " container " >
+            < div  class = " text_1 " >
+                < p  class = join > Присоединяйтесь к GitHub </ p >
+                < h1  class = " acc " > Создайте свою учетную запись </ h1 >
+            </ div >
+            < div  class = " row justify-content-center " >
+                < div  class = " col-md-6 " >
+                    < p > < b > Имя пользователя < span  style = " color: red " > * </ span > </ b > </ p >
+                    < input  type = " text " id = " all_input " >
+
+                    < p > < b > Адрес электронной почты < span  style = " color: red " > * </ span > </ b > </ p >
+                    < input  type = " text " id = " all_input " >
+
+                    < p > < b > Пароль < span  style = " color: red " > * </ span > </ b > </ p >
+                    < input  type = " text " id = " all_input " >
+
+                    < p  class = " make " > Убедитесь, что это не менее 15 символов ИЛИ не менее 8 символов, включая число и строчную букву.
+                      < Бр > < HREF = " https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-strong-password " > Узнать больше. </ а > 
+                    </ p >
+                    
+
+                    < p > < b > Настройки электронной почты </ b > </ p >
+                    < input  type = " checkbox " style = " padding-top: 10px " > < span  style = " padding-left: 10px; font-size: 14px; " > Присылать мне время от времени обновления продуктов, объявления и предложения.
+
+                    < p > < b > Подтвердите свою учетную запись </ b > </ p >
+                    <! - <div class = "verify"> </div> ->
+
+                    < button  type = " button " class = " btn btn-success " id = " btn_1 " > Создать учетную запись </ button >
+                    < div  class = " col-md-11 " >
+                        < Р  класс = « автор „ > Создавая аккаунт, вы соглашаетесь с < в  HREF =“ https://docs.github.com/en/github/site-policy/github-terms-of-service » > Условия Услуги </ a > .
+                            Для получения более подробной информации о GitHub в < Ьг > правила конфиденциальности см < а  HREF = « https://docs.github.com/en/github/site-policy/github-privacy-statement » > GitHub Заявление о конфиденциальности </ > .
+                            Мы будем регулярно посылать Вам аккаунт , связанные с < BR > электронные письма. </ p >
+                    </ div >
+                </ div >
+            </ div >
+            < hr  class = " line " > </ hr >
+            < div  class = " row " >
+                < div  class = " нижний колонтитул " >
+                    < span  class = " hub " > © GitHub, Inc., 2021 </ span >
+                    < HREF = " # " > Условия </ > 
+                    < HREF = " # " > Конфиденциальность </ > 
+                    < HREF = " # " > Безопасность </ > 
+                    < HREF = " # " > Состояние </ > 
+                    < HREF = " # " > Документы </ > 
+                    < HREF = " # " > < IMG SRC =" изображения / 1.png " ширина =" 50px " высота =" 50px " > </ >  
+                    < HREF = " # " > Контакт GitHub </ > 
+                    < HREF = " # " > Цены </ > 
+                    < HREF = " # " > API </ > 
+                    < HREF = " # " > Обучение </ > 
+                    < HREF = " # " > Блог </ > 
+                    < HREF = " # " > О </ > 
+                </ div >
+            </ div >
+        </ div >
+    </ body >
+</ html >
